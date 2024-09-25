@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Windows;
-namespace TaskManagerClientUI;
+namespace TaskManagerClient;
 public partial class MainWindow : Window
 {
 	public MainWindow()
