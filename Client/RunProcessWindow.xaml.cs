@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Text;
 using System.Windows;
 
-namespace TaskManagerClientUI;
+namespace TaskManagerClient;
 
 public partial class RunProcessWindow : Window
 {
