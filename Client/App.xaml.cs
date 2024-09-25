@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace TaskManagerClientUI
+namespace TaskManagerClient
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
